@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCafk2MCzZz39gjA-Iw0kM-30K1ylyio6U',
-    authDomain: 'fotosfirebase-49f24.firebaseapp.com',
-    databaseURL: 'https://fotosfirebase-49f24.firebaseio.com',
-    projectId: 'fotosfirebase-49f24',
-    storageBucket: 'fotosfirebase-49f24.appspot.com',
-    messagingSenderId: '209666662040',
-    appId: '1:209666662040:web:0dc73d966f19e012db7aed',
-    measurementId: 'G-V2G24DVWH4',
+    apiKey: "AIzaSyBcu9RqVw0r34QE58WOEldMXwQGCfQzQxc",
+    authDomain: "fotosapp-22962.firebaseapp.com",
+    databaseURL: "https://fotosapp-22962.firebaseio.com",
+    projectId: "fotosapp-22962",
+    storageBucket: "fotosapp-22962.appspot.com",
+    messagingSenderId: "650477093457",
+    appId: "1:650477093457:web:eed5910b33ae2f2fd2ae70"
+
   }
 };
 
